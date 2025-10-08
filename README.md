@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o SR Palmito!
+# 👋 Olá, eu sou o savio!
 
 Sou um entusiasta da tecnologia, Linux e games 🎮.  
 Gosto de entender o que acontece por trás dos sistemas, otimizar desempenho e aprender coisas novas todo dia.  
