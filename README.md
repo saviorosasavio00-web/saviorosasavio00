@@ -54,7 +54,7 @@ Gosto de entender o que acontece por trás dos sistemas, otimizar desempenho e a
 ---
 
 ## 💬 Contato
-📧 **Email:** srpalmito@example.com  
+📧 **Email:** saviorosasavio00@gmail.com  
 💡 *Aberto para colaborações, ideias e projetos open-source!*
 
 ---
